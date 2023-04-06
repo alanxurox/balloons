@@ -2,7 +2,9 @@
 button, hr, input {
     overflow: visible
 }
-
+a {
+    color: #ffffff;
+}
 audio, canvas, progress, video {
     display: inline-block
 }
